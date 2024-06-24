@@ -1,6 +1,6 @@
 {
-  "name": "react-native-wear-connectivity",
-  "version": "0.1.5",
+  "name": "@d4l/react-native-wear-connectivity",
+  "version": "0.2.0",
   "description": "Enstablish a two-way connection with wearOS",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -42,14 +42,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabOnReact/react-native-wear-connectivity.git"
+    "url": "git+https://github.com/gesundheitscloud/react-native-wear-connectivity.git"
   },
   "author": "Fabrizio Bertoglio <fabrizio.bertoglio@gmail.com> (https://github.com/fabOnReact)",
+  "contributors": [
+    "Claire Mouton <claire.mouton@data4life.care> (https://github.com/gesundsheitcloud)"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fabOnReact/react-native-wear-connectivity/issues"
+    "url": "https://github.com/gesundheitscloud/react-native-wear-connectivity/issues"
   },
-  "homepage": "https://github.com/fabOnReact/react-native-wear-connectivity#readme",
+  "homepage": "https://github.com/gesundheitscloud/react-native-wear-connectivity#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
